@@ -1,0 +1,11 @@
+Gene Set	Description	Size	Expect	Ratio	P Value	FDR	log£¨FDR£©	count	
+GO:0051287	NAD binding	56	0.63715	15.695	6.51E-10	6.75E-08	7.170689793	10	
+GO:0044183	protein folding chaperone	59	0.67128	11.918	3.28E-07	0.000016998	4.769602175	8	
+GO:0051082	unfolded protein binding	110	1.2515	11.186	2.69E-11	4.95E-09	8.305421123	14	
+GO:0016614	"oxidoreductase activity, acting on CH-OH group of donors"	134	1.5246	7.8709	4.20E-08	2.6794E-06	5.571962447	12	
+GO:0003735	structural constituent of ribosome	158	1.7977	7.2316	3.13E-08	2.0773E-06	5.682500779	13	
+GO:0045296	cadherin binding	326	3.7091	6.4706	3.84E-13	1.27E-10	9.89466016	24	
+GO:0016829	lyase activity	196	2.23	6.278	5.49E-08	3.1375E-06	5.503416266	14	
+GO:0003729	mRNA binding	319	3.6295	5.786	1.01E-10	1.40E-08	7.853221011	21	
+GO:0019001	guanyl nucleotide binding	394	4.4828	4.0154	6.13E-07	0.00002902	4.537302592	18	
+									

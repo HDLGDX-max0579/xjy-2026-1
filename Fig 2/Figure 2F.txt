@@ -1,0 +1,10 @@
+Description	Size	Expect	Ratio	P Value	FDR	log£¨FDR£©
+Nucleus	328	7672	0.19	8.40E-01	3.78E-20	19.4225082
+Nuclear lumen	210	4526	0.22	8.20E-01	3.38E-13	12.4710833
+Nucleoplasm	196	4169	0.23	0.82	1.48E-12	11.82973828
+Extracellular exosome	116	2096	0.3	0.87	2.23E-10	9.651695137
+Cornified envelope	18	59	1.04	1.91	2.7E-10	9.568636236
+Nuclear body	46	833	0.3	0.5	0.00094	3.026872146
+Nuclear speck	29	420	0.39	0.55	0.00094	3.026872146
+Mitochondrial intermembrane space protein transporter complex	4	6	1.38	0.61	0.0046	2.337242168
+Mitochondrial intermembrane space	10	86	0.62	0.44	0.0121	1.91721463

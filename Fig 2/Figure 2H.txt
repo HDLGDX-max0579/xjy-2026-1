@@ -1,0 +1,14 @@
+Gene name	P Value	con-1	con-2	con-3	msm-1	msm-2	msm-3		
+MDH1	0.001068712	4427.6	5616.568463	4449.702228	12430.66804	17278.11633	14012.58926		
+Gene name	P Value	mix1 L	mix2 L	mix1 H	mix2 H				
+MDH1	#DIV/0!	5471100	5471100	1	1				
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									

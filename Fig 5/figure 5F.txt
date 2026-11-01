@@ -1,0 +1,243 @@
+MsEis down protein	MtEis up protein	Overlap										
+SERPINB6	HDLBP	NAMPT										
+DMD	KIAA1468	VASP										
+UBE2D3	RPL17;RPL17-C18orf32	GMFB										
+ZBTB8OS	EVL	CBFB										
+PSME2	SLC4A1AP	ATOX1										
+RNF213	ARFGAP2	CLIC1										
+ZCCHC6	HSPA1B;HSPA1A	GIPC1										
+ACY1;ABHD14A-ACY1	LILRB3;LILRA6	NUPR1										
+STRADA	DENND4A	TNFAIP8										
+GBP7	TCEA1	S100A8										
+TBCB	RPS10;RPS10-NUDT3	S100A9										
+SDF4	DYRK1A;DYRK1B	ANXA5										
+LDHB	MEA1	TXN										
+MEN1	COL4A3BP	IL1RN										
+BTF3	DPP9	TPI1										
+NAMPT	GPI	TMSB4X										
+CLASP2	CEP63	GSTO1										
+CARD16	RPL29	FABP5										
+ADA	LRSAM1	UPP1										
+IDI1	DICER1	NPEPL1										
+HMGA1	HGS	CNDP2										
+VASP	WASH6P;WASH4P	GLOD4										
+NUDT5	IFIT3	CLIC4										
+HN1L	SNX9											
+UBE2I	NAMPT											
+CNN2	PPP2R4											
+UBE2E1	POMGNT1											
+CHRAC1	TAF6											
+NFYC	EIF4E2											
+CYB5R2	MAST3											
+NEDD8;NEDD8-MDP1	MYO5A											
+PTGR1	NARS2											
+ACYP1	MYL6B											
+GMFB	TTC39B											
+PPP5C	LZTFL1											
+PICALM	PSEN1											
+METTL1	TAB2											
+NUB1	RPL24											
+MPI	MTMR6											
+PPIL3	NQO1											
+TMEM189-UBE2V1	FBXO28											
+SPAG7	CXCL8											
+TPM3	EIF5A2											
+HN1	APEH											
+CBFB	CAV1											
+ARHGDIA	RWDD4											
+IRF2	ZNF330											
+EIF1;EIF1B	PPP1R2;PPP1R2P3											
+ATOX1	PRRC2C											
+CLIC1	EIF4B											
+BIN1	MROH1											
+PIR	LIMA1											
+GIPC1	CASP1											
+UBE2L6	GMFB											
+POLR2D	C15orf57											
+GRID2	TPM1											
+NCK2	GLOD4											
+NUPR1	CCS											
+PFDN1	PHACTR2											
+GGCT	CBFB											
+TIPRL	LIMD2											
+DGAT1	ATOX1											
+HEXIM1	CLIC1											
+PGLS	IPO5											
+TNFAIP8	HMGN4											
+PSMG1	EIF1AY											
+DDX58	GIPC1											
+BPNT1	ARPC2											
+PNP	PFDN6											
+HPRT1	EIF3D											
+PGK1	RNMT											
+S100A8	RIPK2											
+S100A9	DNPH1											
+S100A6	ENSA											
+PFN1	GMFG											
+PLEK	SPAG9											
+ANXA5	NUPR1											
+GSTP1	MGEA5											
+LTA4H	PLIN3											
+TXN	LPXN											
+THRA	PPP1R11											
+CKB	STX11											
+AKR1A1	GLRX3											
+PKM	UBXN7											
+IDO1	APOL3											
+AKR1B1	TNFAIP8											
+CBR1	NUDT3											
+FAH	LDHA											
+STMN1	SOD1											
+CAPN2	CA2											
+IL1RN	IL1B											
+TYMP	MT2A;MT1G											
+BTF3	ALDOA											
+WARS	GAPDH											
+YWHAQ	S100A8											
+IMPA1	SSB											
+CRABP1	KRT18											
+PRDX6	S100A9											
+BLVRB	ENO1											
+DDT;DDTL	DBI											
+CMPK1	ANXA5											
+PEBP1	HMOX1											
+ADSS	IFIT1											
+SERPINB1	ALDOC											
+YWHAB	TXN											
+DCTD	LCP1											
+GBP1	NCF1;NCF1B											
+GLRX	EZR											
+GMPR	UCHL3											
+TAGLN2	VCL											
+CAPG	IL1RN											
+PREP	PGAM1											
+ME1	CFL1											
+GCLC	PSMA4											
+SERPINB10	MSN											
+PITPNB	EEF1G											
+ARRB1	CD82											
+CASP4	SFN											
+HINT1	STIP1											
+GSK3A	S100A11											
+HNMT	HSPA4											
+CRIP1	RDX											
+GDI2	ANP32A											
+SERPINB8	TXLNA											
+NUDT2	PSMB10											
+DUSP3	MDH1											
+BLVRA	NAA10											
+RABGGTB	CASP3											
+BCAT1	CDKN2C											
+BID	RANBP1											
+TPI1	MAP2K4											
+UBE2K	ATRX											
+SUMO2	ZFP36L2											
+NUTF2	IREB2											
+TMSB4X	INPP1											
+ACTG1	CARS											
+IGBP1	VASP											
+GSTO1	CCT4											
+PITPNA	DAP											
+FABP5	PGD											
+GBE1	SMS											
+GLO1	AIF1											
+RGS1	TPD52											
+SCRN3	EIF3B											
+LCP2	MTPN											
+PAK2	TPI1											
+PDCL	RPS20											
+UBE2V1	UBE2M											
+PIN1	UBE2N;UBE2NL											
+TSTA3	ACTR3											
+CAMK1	VBP1											
+COTL1	RPL37											
+GAMT	YWHAG											
+TSC22D1	YWHAE											
+UBE2V2	TMSB4X											
+FSCN1	PPP2CB											
+UPP1	RPL10A											
+NME1-NME2;NME2;NME1	PPIA											
+SLC27A3	YWHAZ											
+FRMPD1	RPS21											
+SZT2	TPM4											
+ARRDC1	UBE2L3											
+C9orf64	EEF1A1P5;EEF1A1											
+NDRG3	PAFAH1B2											
+CIAPIN1	GSTO1											
+SUPT6H	RBM3											
+RSRC2	NFKB2											
+RPS19BP1	FKBP3											
+CCDC23	AMPD3											
+C1orf52	FABP5											
+NFATC2IP	CAP1											
+NPEPL1	REL											
+CPEB3	PSME1											
+CXorf38	PPID											
+NUDCD2	APOBR											
+LZIC	AKAP13											
+NRGN	ANK3											
+PRCC	IFIT5											
+PTER	COL9A2											
+EFHD2	EIF3A											
+GALM	GIT2											
+PPP1R14B	FAM50A											
+OTUB1	EIF4H											
+PGM2	PEA15											
+CNDP2	TOMM34											
+GBP4	CDC37											
+MTMR9	KYNU											
+UBL7	UPP1											
+PARK7	SARS											
+TXNDC17	LYRM5											
+GINS4	ZC3H14											
+GGACT	LARP1											
+NPL	RAB11FIP1											
+HDHD2	NFXL1											
+BOLA2	MEPCE											
+RNPEP	ARHGAP30											
+UBE2Z	TICAM1											
+PPCS	CMTR1											
+GLOD4	ARHGAP18											
+METTL14	ARFGAP1											
+GPR108	UBR7											
+NIT2	NPEPL1											
+AASDHPPT	PLEKHO2											
+ATG3	SMAP2											
+C1orf123	CHMP7											
+ABRACL	INPP5D											
+PYCARD	OSTF1											
+UFC1	UBE2F;UBE2F-SCLY											
+MAFB	PINX1											
+HEBP2	OTULIN											
+CLIC4	MOB3A											
+	DCUN1D1											
+	ABHD14B											
+	CNDP2											
+	TSNAX;DISC1											
+	EIF3C;EIF3CL											
+	TTC1											
+	SH3GL1											
+	CPPED1											
+	TBC1D2											
+	EGLN1											
+	PAIP1											
+	NUCKS1											
+	SAYSD1											
+	LUC7L											
+	EIF4ENIF1											
+	PPP4R2											
+	DPP3											
+	OGFR											
+	SLAIN2											
+	MALT1											
+	EVL											
+	DBNL											
+	CDV3											
+	PPM1H											
+	G3BP2											
+	NUDC											
+	CAB39											
+	ARIH1											
+	HSPB11											
+	CLIC4											
+	MORC2											

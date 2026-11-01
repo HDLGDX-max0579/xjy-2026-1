@@ -1,0 +1,14 @@
+Description	Size	Expect	Ratio	P Value	FDR	count
+Citrate cycle (TCA cycle)	30	0.14779	33.831	3.3274E-07	0.0004407	5
+Pentose phosphate pathway	31	0.15272	19.644	0.00046928	0.032074	3
+2-Oxocarboxylic acid metabolism	33	0.16257	18.453	0.00056558	0.03349	3
+Glutathione metabolism	57	0.2808	17.806	8.8088E-06	0.0016228	5
+Biosynthesis of amino acids	75	0.36948	16.239	1.8306E-06	0.00075877	6
+Peroxisome	83	0.40889	14.674	3.3255E-06	0.00091874	6
+Carbon metabolism	115	0.56654	12.356	1.5585E-06	0.00075877	7
+Spliceosome	131	0.64536	10.847	3.7264E-06	0.00091874	7
+Ribosome	134	0.66014	7.5742	0.00052232	0.032074	5
+Neutrophil extracellular trap formation	191	0.94094	6.3766	0.00035972	0.025931	6
+Human T-cell leukemia virus 1 infection	222	1.0937	5.4862	0.00079475	0.045438	6
+Coronavirus disease	232	1.1429	5.2497	0.00099863	0.048698	6
+Metabolic pathways	1546	7.6162	2.626	0.000046581	0.0055165	20
